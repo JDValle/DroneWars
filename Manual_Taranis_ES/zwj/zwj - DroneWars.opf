@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d6faeca-8bc7-417b-91a3-ad67124c6824</dc:identifier>
+        <dc:title>Manual Taranis X9D</dc:title>
+        <dc:creator opf:file-as="Vega, Luis de" opf:role="aut">DroneWars</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.21.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-24T23:07:02+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta content="{&quot;DroneWars&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-03-22T11:51:16.844094+00:00" name="calibre:timestamp"/>
+        <meta content="zwj" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="zwj - DroneWars.jpg" title="Portada" type="cover"/>
+    </guide>
+</package>
